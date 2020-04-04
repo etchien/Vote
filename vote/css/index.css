@@ -1,0 +1,30 @@
+body{
+  background-image: url(../image/developpeur.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+header{
+  background-color: orange;
+}
+
+header marquee {
+  font-size: 30px;
+}
+
+div{
+ visibility:visible;
+ font-size:20px;
+ text-align:center;
+ text-transform: uppercase;
+ color: white;
+}
+div img{
+  height:500px;
+  width: 800px;
+
+  margin-top:190px;
+}
+

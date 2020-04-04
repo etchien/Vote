@@ -1,0 +1,14 @@
+body{
+  background-image: url(../image/ext.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+div{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  color: white;
+}
